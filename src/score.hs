@@ -17,3 +17,8 @@ type Phrase = { length :: PhraseLength
 
 -- Some lines that variations stem from
 -- D C B A G F G E
+-- F E D - B A - -
+-- D   F   D   G   F   D   B   D   (D)
+--
+--
+-- F E D C B A B C
