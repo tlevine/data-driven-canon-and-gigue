@@ -22,3 +22,9 @@ type Phrase = { length :: PhraseLength
 --
 --
 -- F E D C B A B C
+--
+--
+
+
+-- Idea: Start with rhythm and one of the above lines,
+-- and add flourishes with empirical data.
